@@ -3,8 +3,8 @@
 
 **Short-Term Features**:
 - Feature paritiy with ChromaDB (Python)
-- Chroma API-compatibility with protobuf
-https://github.com/open-telemetry/opentelemetry-go
+- Chroma API-compatibility with [protobuf](https://raw.githubusercontent.com/chroma-core/chroma/main/idl/chromadb/proto/chroma.proto)
+
 - Transport layer in RPC and HTTP
 - Powered by GraphDB: https://github.com/grails/gorm-neo4j
 
