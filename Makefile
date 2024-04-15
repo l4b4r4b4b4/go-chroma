@@ -1,5 +1,5 @@
-# server:
-#     @go run server/*.go
+server:
+	@go run server/*.go
 
 gen:
 	@protoc \
