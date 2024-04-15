@@ -1,5 +1,5 @@
 # Go-Chroma
-Chroma port written in Go leveraging protobuf and RPC.
+[ChromaDB](https://www.trychroma.com/) port written in Go.
 
 **Short-Term Features**:
 - Feature paritiy with ChromaDB (Python)
